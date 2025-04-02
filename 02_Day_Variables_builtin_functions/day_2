@@ -1,0 +1,46 @@
+variables.py
+  # Day 2: 30 Days of Pyhon programming
+first_name = 'Jhino'
+    last_name = 'Valiente'
+        full_name = 'Jhino Valiente'
+    country = 'Philippines'
+    city = 'Nueva Ecija'
+    age = 22
+    year = 2002
+    is_married = True
+    is_true = "I'm a self taught Python dev."
+    is_light_on = 'No, light is not on'
+
+    first_name, last_name, full_name, country, city, is_married, is_true= 'Jhino', 'Valiente', 'Jhino Valiente', 'Philippines', 'Nueva Ecija', 'True', "I'm a self taught Python dev." 
+  
+    print(type('Jhino')) #str
+      print(len('Jhino')) #5
+      print(len('Valiente')) #8
+
+      num1 = 5
+      num2 = 4
+    print(num1 + num2) #9
+      print(num1 - num2) #1
+      print(num1 * num2) #20
+      print(num1 / num2) #1.25
+      print(num1 % num2) #1
+      print(num1 // num2) #1
+      print(num1 ** num2) #625
+
+            area_of_circle = '2827.43m**2'
+            print(area_of_circle)
+            circum_of_circle = '188.5m'
+            print(area_of_circle)
+
+      first_name = input('Jhino')
+            Jhino
+      last_name = input('Valiente')
+            Valiente
+      country = input('Philippines')
+            Philippines
+      age = input('22')
+            22
+
+    
+
+      
